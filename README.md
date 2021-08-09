@@ -2,7 +2,7 @@
 
 This repository contains the Indigo Ag Code challenge for Christian Matthews
 
-The objective of this respository is to automate the prioritization of of buyer locations using CSVs of county level USDA/NASS data.
+The objective of this respository is to automate the prioritization of buyer locations using CSVs of county level USDA/NASS data.
 
 # Preparation
 1. Download [USDA/NASS Data](https://quickstats.nass.usda.gov/)
