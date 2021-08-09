@@ -6,9 +6,9 @@ The objective of this respository is to automate the prioritization of of buyer 
 
 # Preparation
 1. Download data from https://quickstats.nass.usda.gov/.
-   *For this example I downloaded 2020 CORN, GRAIN - PRODUCTION, MEASURED IN BU and 2020 SOYBEANS - PRODUCTION, MEASURED IN BU
+  *For this example I downloaded 2020 CORN, GRAIN - PRODUCTION, MEASURED IN BU and 2020 SOYBEANS - PRODUCTION, MEASURED IN BU
 2. Download and install the following:
-   *Anaconda - https://www.anaconda.com/products/individual
+  *Anaconda - https://www.anaconda.com/products/individual
    *OSGEO4W - https://www.osgeo.org/projects/osgeo4w/
 *PostgreSQL AND PostGIS - https://www.postgresql.org/download/
 *Modules: GeoPandas, psycopg2
