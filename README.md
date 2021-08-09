@@ -30,7 +30,7 @@ The objective of this respository is to automate the prioritization of of buyer 
     * Copy this code and run in the QGIS Python Module
 6. IndigoTool_Step5.py
     * Run this file
-7. IndigoTool_Step2.py
+7. IndigoTool_Step6.py
     * Using the command line run the line individually
 
 
