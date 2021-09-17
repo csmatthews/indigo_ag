@@ -6,7 +6,7 @@ Created on Mon Aug  9 13:14:54 2021
 """
 
 import psycopg2
-conn = psycopg2.connect("host=localhost dbname=indigo user=postgres password=ccubed")
+conn = psycopg2.connect("host=localhost dbname=indigo user=postgres password=")
 
 
 ### Summarize Facility Totals to Single Ids
