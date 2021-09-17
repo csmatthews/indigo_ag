@@ -8,7 +8,7 @@ Created on Mon Aug  9 08:12:36 2021
 import psycopg2
 import sys
 
-conn = psycopg2.connect("host=localhost dbname=indigo user=postgres password=ccubed")
+conn = psycopg2.connect("host=localhost dbname=indigo user=postgres password=")
 
 
 
